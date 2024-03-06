@@ -15,4 +15,3 @@
 
 8. Training and Documentation: Provide teams with training and make process and best practice documentation for later use.
 
-![Uploading image.png…]()
